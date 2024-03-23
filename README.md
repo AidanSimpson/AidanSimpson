@@ -14,4 +14,4 @@ About Me:
 - HTML / CSS / JavaScript or jQuery / PHP are my core languages, though use different compilers and such as needed.
 
 # Contact Info
-Please feel free to reach out via <a href="https://www.linkedin.com/in/aidansimpson1/" target="blank">LinkedIn></a> or directly through Email.
+Please feel free to reach out via <a href="https://www.linkedin.com/in/aidansimpson1/" target="blank">LinkedIn</a> or directly through Email.
